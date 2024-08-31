@@ -31,7 +31,7 @@ export default function Landing() {
         <div className="max-w-2xl space-y-4">
           <h2 className="text-4xl md:text-6xl font-bold">Kahve Buluşmalarının İlk Adımı</h2>
           <p className="text-lg md:text-xl text-[#5C4534]">
-          "Bir fincan kahve etrafında, ortak bir tutku ile buluşalım."</p>
+          Bir fincan kahve etrafında, ortak bir tutku ile buluşalım</p>
           <Link
             href="/register"
             className="inline-flex items-center justify-center rounded-md bg-[#FFC107] px-6 py-3 text-sm font-medium text-[#3B2314] shadow-sm transition-colors hover:bg-[#FFD54F] focus:outline-none focus:ring-2 focus:ring-[#FFC107] focus:ring-offset-2"
