@@ -8,7 +8,6 @@ export default function Landing() {
           <div className="bg-[#FFC107] rounded-full w-10 h-10 flex items-center justify-center text-2xl font-bold">
             K
           </div>
-          <h1 className="text-xl font-bold">birkahveyenedersin.com</h1>
         </div>
         <div className="flex items-center gap-4">
           <Link
