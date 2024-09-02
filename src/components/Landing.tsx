@@ -170,9 +170,7 @@ export default function Component() {
             <div>
               <h4 className="text-lg font-semibold mb-4">İletişim</h4>
               <address className="not-italic text-sm text-gray-300">
-                <p>1234 Kahve Sokak</p>
-                <p>Kahve Mahallesi, 34567</p>
-                <p>İstanbul, Türkiye</p>
+                <p>Urla-İzmir, Türkiye</p>
                 <p className="mt-2">
                   <a href="mailto:info@kahvebulusmalari.com" className="hover:text-[#FFA500] transition-colors duration-300">
                     birkahveyenedersin0@gmail.com
